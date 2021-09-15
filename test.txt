@@ -21,3 +21,4 @@ z
 hahhahahhahahhahah
 abort the change in the stage
 master conflict merge
+conflict merge
